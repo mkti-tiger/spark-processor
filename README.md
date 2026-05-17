@@ -1,3 +1,9 @@
+## Related: Spark License v1.0  **期限・回収機能付きライセンスシステム + 秘密鍵埋込パスキー化**  See: github.com/mkti-tiger/spark-license  
+
+
+
+
+
 －－－－－－－－最新版は、－－－－－
 
 Spark Processor (PQC量子耐性アンカー構造) β1.1.0
