@@ -1,4 +1,3 @@
-## Related: Spark License v1.0  **期限・回収機能付きライセンスシステム + 秘密鍵埋込パスキー化**  See: github.com/mkti-tiger/spark-license  
 
 
 
@@ -7,13 +6,14 @@
 －－－－－－－－最新版は、－－－－－
 
 Spark Processor (PQC量子耐性アンカー構造) β1.1.0
-
 https://github.com/mkti-tiger/spark-processor-pqc/blob/main/README_beta1.1.0.md
 
 二層構造型量子耐性NFT発行プロトコル
 Quantum-Resistant NFT Issuance Protocol (β1.1.0)
-
 https://github.com/mkti-tiger/spark-processor-pqc/blob/main/docs/README.md
+
+## Related: Spark License v1.0  **期限・回収機能付きライセンスシステム + 秘密鍵埋込パスキー化** 
+See: github.com/mkti-tiger/spark-license  
 
 －－－－－－－－－－－－－－－－－－
 
