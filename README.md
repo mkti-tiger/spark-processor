@@ -20,7 +20,7 @@ https://github.com/mkti-tiger/spark-processor-pqc/blob/main/docs/README.md
 
 ## Related: Spark License v1.0  **期限・回収機能付きライセンスシステム + 秘密鍵埋込パスキー化** 
 
-See: github.com/mkti-tiger/spark-license  
+https://github.com/mkti-tiger/spark-license  
 
 －－－－－－－－－－－－－－－－－－
 
